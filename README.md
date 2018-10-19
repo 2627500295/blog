@@ -98,9 +98,9 @@ https://material.io
 ##### Redux
 
 语言  | | |
------|-----------    
+-----|------------------|----------------
 英文  | [官网][REDUX-ENG] | [文档][REDUX-TUTORIAL]
-中文  | [官网][REDUX-CHS] | |
+中文  | [官网][REDUX-CHS] | 
 
 [REDUX-ENG]: https://redux.js.org/
 [REDUX-TUTORIAL]: https://redux.js.org/introduction
