@@ -142,12 +142,15 @@ https://material.io
 -----|-----------|-----------
 英文 | [首页][01] | [规则][02]
 中文 | [首页][05] | [规则][06]
+typescript-eslint | [首页][07] | 
 
 [01]: https://eslint.org/
 [02]: https://eslint.org/docs/rules/
 
 [05]: http://eslint.cn
 [06]: http://eslint.cn/docs/rules/
+
+[07]: https://github.com/typescript-eslint/typescript-eslint
 
 #### tslint
 语言  | | |
