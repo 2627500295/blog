@@ -201,4 +201,3 @@ typescript-eslint | [首页][07] |
 
 ## 书籍
 
-![](https://graph.baidu.com/resource/112241ca10739a60a891501572949620.jpg)
