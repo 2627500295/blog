@@ -1,4 +1,4 @@
-# 使用 window.crypto.getRandomValues 取代不案例的 Math.random
+# 使用 window.crypto.getRandomValues 取代不安全的 Math.random
 
 最近在使用 `TSLint` 规范代码的时候, 使用了微软的规则, 它提示 `Math.random` 不安全的伪随机数字。
 
