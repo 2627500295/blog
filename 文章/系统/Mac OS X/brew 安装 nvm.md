@@ -4,6 +4,12 @@
 brew install nvm
 ```
 
+## 删除软链接
+
+```bash
+rm -rf $(brew --prefix nvm)
+```
+
 ## 设置
 
 ```bash
