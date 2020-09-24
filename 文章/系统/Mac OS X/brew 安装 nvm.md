@@ -9,7 +9,7 @@ brew install nvm
 删除 `$(brew --prefix nvm)` 链接
 
 ```bash
-/usr/local/opt/nvm
+rm -rf /usr/local/opt/nvm
 ```
 
 ## 设置
